@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongyong47&layout=compact)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🌱 I’m currently learning
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+
+### 💻 Frequently Used Languages
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+
+### 📫 How to reach me
+
+- Email: [your.email@example.com](mailto:sinyongcheol008@gmail.com)
+- LinkedIn: [Your LinkedIn Profile]((https://www.instagram.com/zweadfxdxfxcdtffcx/))
+
+### ⚡ Fun fact
+
+I love coding and learning new technologies!
