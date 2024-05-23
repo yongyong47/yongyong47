@@ -20,8 +20,3 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongyong47&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📫 How to reach me
-
-- Email: sinyongcheol008@gmail.com
-- Instagram: https://www.instagram.com/zweadfxdxfxcdtffcx/
