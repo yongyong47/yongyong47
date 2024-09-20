@@ -1,4 +1,4 @@
-<h2>👋 hello! My name is Shin Yong-cheol and I am studying to become a back-end developer.</h2>
+<h2>👋 hi! My name is Shin Yong-cheol and I am studying to become a back-end developer.</h2>
 
 ### 🌱 I’m currently learning ...
 
